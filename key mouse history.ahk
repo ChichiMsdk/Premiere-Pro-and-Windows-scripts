@@ -1,0 +1,3 @@
+﻿#InstallKeybdHook
+#InstallMouseHook
+KeyHistory
